@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>seewo.ico</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>title.ttf</file>
+        <file>yuanshen.ttf</file>
+    </qresource>
+</RCC>
